@@ -21,6 +21,12 @@ This pipeline takes a raw heart sound `.wav` file and:
 | Segmentation | SUCCESS | — |
 
 ## Requirements
+Python 3.8 or above
+
+Install dependencies:
+```
+pip install numpy librosa scipy matplotlib
+```
 ## Usage
 Run the scripts in order:
 ```python
